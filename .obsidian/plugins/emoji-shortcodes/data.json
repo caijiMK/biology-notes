@@ -1,0 +1,13 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":writing_hand:",
+    ":sunny:",
+    ":bald_man:",
+    ":eyes:",
+    ":ocean:"
+  ]
+}

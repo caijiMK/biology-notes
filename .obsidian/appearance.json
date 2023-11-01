@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "LXGW"
+  ]
+}
